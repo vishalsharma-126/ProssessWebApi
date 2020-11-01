@@ -1,0 +1,13 @@
+GET
+users/
+users/:id
+
+
+POST
+users/
+
+PUT
+users/:id
+
+DELETE
+users/:id
